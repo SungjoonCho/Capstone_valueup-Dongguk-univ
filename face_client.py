@@ -1,17 +1,20 @@
-import face_recognition
-import cv2
-import numpy as np
-import firebase_admin
-from firebase_admin import credentials
-import time
-
 import os
 import sys
+import cv2
+import numpy as np
+
+import face_recognition
+import firebase_admin
+from firebase_admin import credentials
 from firebase_admin import db
-import threading
-import socket
-from threading import Thread
 from pyrebase import pyrebase
+
+import time
+import threading
+from threading import Thread
+import socket
+
+
 global video_capture
 
 # firebase storage db
