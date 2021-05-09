@@ -22,4 +22,10 @@
 </p>
 
 
+### Awards
+
+<p align = "center">
+  <img width="700" src="https://user-images.githubusercontent.com/80872528/117564094-351ca080-b0e5-11eb-8a68-a38ffbdd843c.png">
+</p>
+
 
