@@ -4,6 +4,15 @@
   <img width="700" src="https://user-images.githubusercontent.com/80872528/117562457-04833980-b0da-11eb-86d4-8af78c94421e.png">
 </p>
 
+### My role in project 
+<pre>
+
+Recognizing face
+Working for main server - connecting online DB, socket programming to send & receive signal
+Working for mobile application
+Connecting google API in system
+</pre>
+
 ### Video 
 
 * https://drive.google.com/drive/folders/1D8AHLqNC3kV4nkkqcJmHVN26aCOZ6Mpe?usp=sharing
