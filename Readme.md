@@ -1,4 +1,4 @@
-##  Personalized home environment system after facial recognition when returning home - 2019.09.13
+#  Personalized home environment system after facial recognition when returning home - 2019.09.13
 
 <p align = "center">
   <img width="700" src="https://user-images.githubusercontent.com/80872528/117562457-04833980-b0da-11eb-86d4-8af78c94421e.png">
