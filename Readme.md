@@ -18,7 +18,7 @@
 ### Picture of model
 
 <p align = "center">
-  <img width="300" src="https://user-images.githubusercontent.com/80872528/117562524-8b381680-b0da-11eb-9596-5992a5273094.png">
+  <img width="600" src="https://user-images.githubusercontent.com/80872528/117562524-8b381680-b0da-11eb-9596-5992a5273094.png">
 </p>
 
 
